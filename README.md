@@ -231,8 +231,3 @@ AFD(Q, Sigma, q0, F, delta)
 # Cadenas aceptadas: "", "aa", "bb", "baba"
 # Cadenas rechazadas: "a", "aaa", "aba"
 ```
-
-
-## 👨‍💻 Autor
-
-Tu Nombre - [@Emadlgg](github.com/Emadlgg)
