@@ -44,8 +44,8 @@ pip install pyyaml
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/simulador-afd.git
-cd simulador-afd
+git clone https://github.com/Emadlgg/lab2_teoria.git
+cd lab2_teoria
 ```
 
 ## 🎯 Uso
@@ -53,7 +53,7 @@ cd simulador-afd
 ### Ejecución básica
 
 ```bash
-python afd_simulator.py
+python lab2.py
 ```
 
 ### Menú interactivo
